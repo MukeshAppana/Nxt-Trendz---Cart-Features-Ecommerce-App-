@@ -1,5 +1,10 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
+project link : https://matrends.ccbp.tech/login
+
+login id - rahul
+password - rahul@2021
+
 ### Refer to the video below:
 
 <br/>
